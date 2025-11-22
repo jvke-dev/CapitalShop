@@ -1,22 +1,22 @@
-# 🛒 CapitalShop - E-commerce Website (MERN Stack)
+# CapitalShop - E-commerce Website (MERN Stack)
 
 CapitalShop is a full-featured e-commerce web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It supports product browsing, user authentication, cart management, and order processing — all wrapped in a sleek modern UI.
 
-## 🚀 Features
+## Features
 
-- ✅ User Registration & Login (with JWT Authentication)
-- 🛍️ Product Listings with Filtering and Sorting
-- 🛒 Shopping Cart and Checkout Functionality
-- 📦 Order Management for Users
-- 🔐 Admin Dashboard for Managing Products & Orders
-- 💬 Toast Notifications (using `react-hot-toast`)
-- 📸 Product Image Uploads (via Multer / Cloudinary)
-- 🌐 Fully Responsive Frontend
-- 📦 RESTful APIs for backend communication
+- User Registration & Login (with JWT Authentication)
+-  Product Listings with Filtering and Sorting
+-  Shopping Cart and Checkout Functionality
+-  Order Management for Users
+-  Admin Dashboard for Managing Products & Orders
+-  Toast Notifications (using `react-hot-toast`)
+-  Product Image Uploads (via Multer / Cloudinary)
+-  Fully Responsive Frontend
+-  RESTful APIs for backend communication
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React.js
@@ -37,7 +37,7 @@ CapitalShop is a full-featured e-commerce web application built with the MERN (M
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the Repository
 

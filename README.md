@@ -14,7 +14,6 @@ CapitalShop is a full-featured e-commerce web application built with the MERN (M
 -  Fully Responsive Frontend
 -  RESTful APIs for backend communication
 
----
 
 ## Tech Stack
 
@@ -32,10 +31,6 @@ CapitalShop is a full-featured e-commerce web application built with the MERN (M
 - JWT for authentication
 - Multer (for image uploads)
 
----
-
-
----
 
 ## Installation
 

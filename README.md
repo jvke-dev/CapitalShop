@@ -89,5 +89,5 @@ npm start
 This project is for educational purposes only.
 
 ## Author
-### JVKE
+### JvkeDev
 
